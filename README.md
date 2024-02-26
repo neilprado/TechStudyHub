@@ -8,3 +8,5 @@ Este repositório tem o intuito de oferecer um ambiente organizado de estudos de
 
 - Python
   - [Introdução](Python/intro.md)
+  - [Variáveis](Python/variables.md)
+    - [Operadores](Python/operators.md)
