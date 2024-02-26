@@ -6,9 +6,9 @@ Operadores desempenham um papel vital na programação, permitindo a manipulaç�
 
 Os operadores aritméticos são usados para realizar operações matemáticas básicas. Alguns dos operadores aritméticos comuns em Python incluem:
 
-- - (adição)
-- - (subtração)
-- - (multiplicação)
+- \+ (adição)
+- \- (subtração)
+- \* (multiplicação)
 - / (divisão)
 - // (divisão inteira)
 - % (módulo, retorna o resto da divisão)
@@ -43,9 +43,9 @@ Esses operadores comparam dois valores e retornam um resultado booleano (True ou
 - == (igual a)
 - != (diferente de)
 - < (menor que)
-- > (maior que)
+- \> (maior que)
 - <= (menor ou igual a)
-- >= (maior ou igual a)
+- \>= (maior ou igual a)
 
 Operadores de comparação tem como retorno operadores booleanos, ou seja, True ou False.
 
