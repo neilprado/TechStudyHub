@@ -27,7 +27,7 @@ Como todas as linguagens, o Python também tem convenções acerca do estilo de 
 
 De forma opcional, porém altamente recomendado, será usada a plataforma beecrowd para realização de atividades com o intuito de fixar o aprendizado.
 
-- Acesse (beecrowd)[https://judge.beecrowd.com/pt/login?redirect=%2Fpt]
+- Acesse [beecrowd](https://judge.beecrowd.com/pt/login?redirect=%2Fpt)
   - Realize o cadastro com e-mail, senha e a confirmação de senha
 
 ## Já preparei o ambiente e agora?
@@ -52,6 +52,6 @@ Em Python, existem alguns tipos de dados, os tipos de dados básicos são:
 
 ## Exercícios
 
-Realize o login na plataforma (beecrowd)[https://judge.beecrowd.com/pt/login?redirect=%2Fpt] e resolva a questão (Olá Mundo)[https://judge.beecrowd.com/pt/problems/view/1000]
+Realize o login na plataforma [beecrowd](https://judge.beecrowd.com/pt/login?redirect=%2Fpt) e resolva a questão [Olá Mundo](https://judge.beecrowd.com/pt/problems/view/1000)
 
 Por hoje é só, dúvidas, sugestões e feedbacks, faça-o pessoalmente :p
