@@ -8,7 +8,7 @@ Como o público alvo são crianças em fase de alfabetização, você utilizará
 - Multiplicação: **mul**
 - Divisão: **div**
 
-Dado o tempo curto a se realizar esta tarefa, os operadores acima são suficientes para a completude do projeto, porém gostaria de ser cálculos extra, são eles:
+Dado o tempo curto a se realizar esta tarefa, os operadores acima são suficientes para a completude do projeto, porém gostaria de ter cálculos extra, são eles:
 
 - Exponenciação: **exp**
 - Porcentagem: **por**
@@ -21,5 +21,11 @@ Dado o tempo curto a se realizar esta tarefa, os operadores acima são suficient
 | 8 2 div            |        4         |
 | 3 3 exp            |        27        |
 | 1000 10 por        |       100        |
+
+Como estruturas obrigatórias, gostaria que o projeto tivesse as seguintes estruturas:
+
+- if
+- elif
+- else
 
 Divirta-se!!!
